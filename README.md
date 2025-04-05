@@ -45,9 +45,9 @@
 
 ### Contact
 
-- • [LinkedIn](https://www.linkedin.com/in/joey-wong-7a572526a/)
-- • [Portfolio](https://jwxng.com)
-- • [LeetCode](https://leetcode.com/u/jwong05/)
+- [LinkedIn](https://www.linkedin.com/in/joey-wong-7a572526a/)
+- [Portfolio](https://jwxng.com)
+- [LeetCode](https://leetcode.com/u/jwong05/)
 
 ---
 
