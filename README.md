@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Joey 👋</h1>
-<h3 align="center">Economics + CS @ UC Berkeley | Finance • Code</h3>
+<h3 align="center">Economics + CS @ UC Berkeley </h3>
 
 <p align="center">
   <a href="https://github.com/joeywong">
@@ -8,23 +8,6 @@
   <img src="https://img.shields.io/badge/Full--Stack%20Programmer-%2300C49A?style=flat-square&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Finance%20Enthusiast-%23FFD700?style=flat-square&logo=money&logoColor=black" />
 </p>
-
----
-
-### About Me
-
-- Economics + CS @ **UC Berkeley**  
-- Passionate about **finance**, **quant development**, and **data-driven problem solving**
-- Building tools that bridge **economics, engineering, and insight**
-- Exploring predictive models, market simulations, and AI-powered apps
-
----
-
-### Current Projects
-
-** Premed Ranking Web App → evolving into a general ranking system**  
-> *React + Firebase app for organizing and scoring school/program data*  
-> Uses: `Firestore`, `OpenAI`, `React Hooks`, `Custom Ranking Logic`
 
 ---
 
