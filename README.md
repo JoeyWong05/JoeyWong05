@@ -22,7 +22,7 @@
 
 ### Current Projects
 
-** • Premed Ranking App → evolving into a general ranking system**  
+** Premed Ranking Web App → evolving into a general ranking system**  
 > *React + Firebase app for organizing and scoring school/program data*  
 > Uses: `Firestore`, `OpenAI`, `React Hooks`, `Custom Ranking Logic`
 
@@ -39,15 +39,6 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeywong&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeywong&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
